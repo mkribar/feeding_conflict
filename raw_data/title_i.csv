@@ -1,0 +1,234 @@
+"","Value","Tonnage_mt","Commodities","funding","year","Country","Sponsor","Recipients_1000s"
+"1",2e+06,7000,"rice","title i",1991,"Congo - Brazzaville",NA,NA
+"2",1.5e+07,101000,"wheat","title i",1991,"Costa Rica",NA,NA
+"3",1e+07,30000,"rice","title i",1991,"Côte d’Ivoire",NA,NA
+"4",3.5e+07,177000,"wheat, vegetable oil, and tallow","title i",1991,"El Salvador",NA,NA
+"5",1.8e+07,142000,"wheat and rice","title i",1991,"Guatemala",NA,NA
+"6",7e+06,57000,"wheat","title i",1991,"Guyana",NA,NA
+"7",4e+07,271000,"wheat, rice, corn","title i",1991,"Jamaica",NA,NA
+"8",3.5e+07,203000," wheat and vegetable oil ","title i",1991,"Morocco",NA,NA
+"9",32500000,143000," wheat, rice, vegetable oil, soybeans, tallow, and dry edible beans ","title i",1991,"Nicaragua",NA,NA
+"10",1.5e+07,28000,"vegetable oil","title i",1991,"Panama",NA,NA
+"11",1.5e+07,67000,"oilseeds","title i",1991,"Philippines",NA,NA
+"12",5e+06,29000,"wheat and rice","title i",1991,"Sierra Leone",NA,NA
+"13",12300000,93000,"wheat","title i",1991,"Sri Lanka",NA,NA
+"14",1.5e+07,127000,"wheat and corn","title i",1991,"Tunisia",NA,NA
+"15",5e+06,15000,"rice","title i",1991,"Yemen",NA,NA
+"16",1.6e+07,91000,"wheat","title i",1991,"Congo - Kinshasa",NA,NA
+"17",2e+06,6300,"rice","title i",1992,"Congo - Brazzaville",NA,NA
+"18",5e+06,17000,"rice","title i",1992,"Côte d’Ivoire",NA,NA
+"19",1e+07,30900,"rice, wheat","title i",1992,"Sierra Leone",NA,NA
+"20",4e+07,332750,"corn, wheat, vegetable oil","title i",1992,"Zimbabwe",NA,NA
+"21",2e+07,97000,"soybean meal","title i",1992,"Philippines",NA,NA
+"22",1.3e+07,75400,"wheat","title i",1992,"Sri Lanka",NA,NA
+"23",27500000,82700,"food","title i",1992,"Albania",NA,NA
+"24",9300000,66000,"wheat","title i",1992,"Armenia",NA,NA
+"25",19900000,145000,"feed grains and oil seeds/meals","title i",1992,"Belarus",NA,NA
+"26",1e+07,71500,"wheat","title i",1992,"Estonia",NA,NA
+"27",7.5e+07,1e+05,"food","title i",1992,"Georgia",NA,NA
+"28",8300000,56000,"wheat","title i",1992,"Kyrgyzstan",NA,NA
+"29",1e+07,60000,"wheat","title i",1992,"Latvia",NA,NA
+"30",1e+07,43300,"soybean meal","title i",1992,"Lithuania",NA,NA
+"31",6900000,71700,"feed grains  ","title i",1992,"Moldova",NA,NA
+"32",1e+07,18000,"food","title i",1992,"Romania",NA,NA
+"33",1e+07,60100,"food","title i",1992,"Tajikistan",NA,NA
+"34",1.5e+07,90000,"wheat and wheat flour","title i",1992,"Costa Rica",NA,NA
+"35",3e+07,203000,"wheat, wheat flour, tallow","title i",1992,"El Salvador",NA,NA
+"36",1.5e+07,120000,"wheat","title i",1992,"Guatemala",NA,NA
+"37",7500000,58000,"wheat","title i",1992,"Guyana",NA,NA
+"38",3e+07,198000,"wheat, sorghum, corn, and rice","title i",1992,"Jamaica",NA,NA
+"39",4e+06,7000,"","title i",1992,"Panama",NA,NA
+"40",8e+06,48000,"wheat, feed grains, vegetable oil","title i",1992,"Suriname",NA,NA
+"41",2e+07,115000,"wheat","title i",1992,"Jordan",NA,NA
+"42",1e+07,81000,"wheat","title i",1992,"Tunisia",NA,NA
+"43",1e+07,33000,"rice","title i",1993,"Côte d’Ivoire",NA,NA
+"44",5e+06,50000,"feed grains","title i",1993,"Zimbabwe",NA,NA
+"45",4e+07,90000,"vegoil","title i",1993,"Pakistan",NA,NA
+"46",2e+07,95000,"soy meal","title i",1993,"Philippines",NA,NA
+"47",1e+07,75000,"wheat","title i",1993,"Sri Lanka",NA,NA
+"48",13500000,135000,"feed grains","title i",1993,"Bulgaria",NA,NA
+"49",2.5e+07,180000,"feed grains, soy meal","title i",1993,"Lithuania",NA,NA
+"50",1e+07,67000,"wheat","title i",1993,"Romania",NA,NA
+"51",20600000,77300,"wheat, rice, wheat flour","title i",1993,"Armenia",NA,NA
+"52",5e+06,23000,"soy meal","title i",1993,"Belarus",NA,NA
+"53",50400000,262000,"wheat","title i",1993,"Georgia",NA,NA
+"54",1.8e+07,105000,"wheat","title i",1993,"Kyrgyzstan",NA,NA
+"55",1e+07,50000,"wheat","title i",1993,"Moldova",NA,NA
+"56",13500000,74095,"feed grains, soy meal","title i",1993,"Tajikistan",NA,NA
+"57",1e+07,40000,"wheat","title i",1993,"Turkmenistan",NA,NA
+"58",2e+07,145000,"feed grains","title i",1993,"Ukraine",NA,NA
+"59",1.5e+07,90000,"wheat","title i",1993,"Costa Rica",NA,NA
+"60",32200000,160700,"wheat, soy meal, tallow","title i",1993,"El Salvador",NA,NA
+"61",1.5e+07,110000,"wheat","title i",1993,"Guatemala",NA,NA
+"62",3e+07,191800,"rice, feed grains","title i",1993,"Jamaica",NA,NA
+"63",3500000,24000,"wheat","title i",1993,"Suriname",NA,NA
+"64",30000,2e+05,"wheat","title i",1993,"Jordan",NA,NA
+"65",2e+07,88000,"wheat, vegoil","title i",1993,"Morocco",NA,NA
+"66",5e+06,50000,"feed grains","title i",1993,"Tunisia",NA,NA
+"67",8200000,32800,"rice","title i",1993,"Yemen",NA,NA
+"68",1.5e+07,42100,"corn, vegetable oil, wheat","title i",1994,"Albania",NA,NA
+"69",8e+06,32000,"wheat, wheat flour","title i",1994,"Angola",NA,NA
+"70",25100080,120000,"wheat","title i",1994,"Armenia",NA,NA
+"71",27500000,135800,"corn, soybean meal","title i",1994,"Belarus",NA,NA
+"72",6e+06,15000,"rice, vegetable oil","title i",1994,"Congo - Brazzaville",NA,NA
+"73",1.5e+07,51900,"rice ","title i",1994,"Côte d’Ivoire",NA,NA
+"74",1e+07,26300,"cotton","title i",1994,"Croatia",NA,NA
+"75",23800000,125000,"wheat","title i",1994,"Georgia",NA,NA
+"76",1.5e+07,95600,"wheat","title i",1994,"Guatemala",NA,NA
+"77",16400000,67800,"corn, rice","title i",1994,"Jamaica",NA,NA
+"78",1.5e+07,107400,"wheat","title i",1994,"Jordan",NA,NA
+"79",1.6e+07,68300,"wheat","title i",1994,"Kyrgyzstan",NA,NA
+"80",1.5e+07,63000,"soybean meal","title i",1994,"Lithuania",NA,NA
+"81",7e+06,46000,"corn","title i",1994,"North Macedonia",NA,NA
+"82",2e+07,111500,"corn, soybean meal, wheat","title i",1994,"Moldova",NA,NA
+"83",1.5e+07,66600,"vegetable oil, wheat","title i",1994,"Morocco",NA,NA
+"84",1.5e+07,73900,"soybean meal","title i",1994,"Philippines",NA,NA
+"85",1.8e+07,127200,"wheat","title i",1994,"Sri Lanka",NA,NA
+"86",5500000,24300,"vegetable oil, what","title i",1994,"Suriname",NA,NA
+"87",1e+07,34400,"wheat","title i",1994,"Tajikistan",NA,NA
+"88",1e+07,50000,"wheat","title i",1994,"Turkmenistan",NA,NA
+"89",2e+07,85500,"soybeans","title i",1994,"Ukraine",NA,NA
+"90",NA,31400,"vegoil, weat flour, wheat","title i",1995,"Angola",NA,NA
+"91",2e+10,98300,"corn, soybean meal","title i",1995,"Belarus",NA,NA
+"92",5e+09,25000,"wheat","title i",1995,"Bolivia",NA,NA
+"93",6e+09,13700,"rice, vegoil","title i",1995,"Congo - Brazzaville",NA,NA
+"94",1e+10,37000,"rice  ","title i",1995,"Côte d’Ivoire",NA,NA
+"95",5e+09,7000,"vego","title i",1995,"Croatia",NA,NA
+"96",1e+10,21400,"tallow, vegoil","title i",1995,"El Salvador",NA,NA
+"97",3e+09,15000,"wheat","title i",1995,"Guyana",NA,NA
+"98",1.38e+10,49900,"rice","title i",1995,"Jamaica",NA,NA
+"99",1.41e+10,97000,"corn, wheat","title i",1995,"Jordan",NA,NA
+"100",1e+10,45000,"soybean meal","title i",1995,"Lithuania",NA,NA
+"101",1e+10,57200,"corn, soybean meal","title i",1995,"Moldova",NA,NA
+"102",1e+10,85000,"corn","title i",1995,"Pakistan",NA,NA
+"103",1.95e+10,118300,"wheat","title i",1995,"Sri Lanka",NA,NA
+"104",5.3e+09,20200,"vegoil, wheat","title i",1995,"Suriname",NA,NA
+"105",1.5e+10,53300,"wheat","title i",1995,"Turkmenistan",NA,NA
+"106",2.5e+10,101000,"soybean meal","title i",1995,"Ukraine",NA,NA
+"107",7669500,23012,"wheat, vo","title i",1996,"Angola",NA,NA
+"108",11439200,52500,"wheat","title i",1996,"Armenia",NA,NA
+"109",8966800,36000,"sbmeal","title i",1996,"Belarus",NA,NA
+"110",8628400,47250,"wheat  ","title i",1996,"Bolivia",NA,NA
+"111",8e+06,16916,"rice, vo","title i",1996,"Congo - Brazzaville",NA,NA
+"112",9999600,27842,"rice  ","title i",1996,"Côte d’Ivoire",NA,NA
+"113",12154700,28882,"co, sbmeal, tallow","title i",1996,"El Salvador",NA,NA
+"114",9e+06,38933,"wheat","title i",1996,"Guyana",NA,NA
+"115",14999400,44130,"rice","title i",1996,"Jamaica",NA,NA
+"116",20999900,75461,"wheat, rice","title i",1996,"Jordan",NA,NA
+"117",1e+07,36033,"sbmeal","title i",1996,"Lithuania",NA,NA
+"118",12162900,49675,"wheat, rice","title i",1996,"Moldova",NA,NA
+"119",1e+07,31410,"beans","title i",1996,"Pakistan",NA,NA
+"120",14999700,34259,"rice","title i",1996,"Philippines",NA,NA
+"121",9614300,49350,"wheat","title i",1996,"Sri Lanka",NA,NA
+"122",1864100,8400,"wheat","title i",1996,"Suriname",NA,NA
+"123",8739100,39689,"wheat","title i",1996,"Turkmenistan",NA,NA
+"124",18406000,66951,"sbmeal","title i",1996,"Ukraine",NA,NA
+"125",11306250,63000,"Wheat","title i",1997,"Armenia",NA,NA
+"126",9999980,64890,"Wheat","title i",1997,"Bolivia",NA,NA
+"127",9999920,30360,"Rice","title i",1997,"Côte d’Ivoire",NA,NA
+"128",9172640,19780,"Soy Bean Meal, Tallow, Veg.","title i",1997,"El Salvador",NA,NA
+"129",17214640,108970,"Wheat","title i",1997,"Georgia",NA,NA
+"130",7813470,45970,"Wheat","title i",1997,"Guyana",NA,NA
+"131",5348790,15200,"Rice","title i",1997,"Jamaica",NA,NA
+"132",20898470,115500,"Rice","title i",1997,"Jordan",NA,NA
+"133",7609500,30000,"Soy Bean Meal","title i",1997,"Lithuania",NA,NA
+"134",34999670,203430,"Soy Bean Meal, Wheat","title i",1997,"Pakistan",NA,NA
+"135",9999910,64980,"Wheat","title i",1997,"Sri Lanka",NA,NA
+"136",8345360,5700,"Cotton","title i",1997,"Ukraine",NA,NA
+"137",8236510,42730,"Rice, Vegetable Oil, Wheat","title i",1998,"Angola",NA,NA
+"138",13282260,90790,"Wheat ","title i",1998,"Armenia",NA,NA
+"139",6579960,52980,"Wheat ","title i",1998,"Bolivia",NA,NA
+"140",4713260,9250,"Tallow, Vegetable Oil ","title i",1998,"El Salvador",NA,NA
+"141",1e+07,83150,"Sorghum, Wheat ","title i",1998,"Eritrea",NA,NA
+"142",13357490,80230,"Wheat, Vegetable Oil ","title i",1998,"Georgia",NA,NA
+"143",4378680,18230,"Tallow, Wheat ","title i",1998,"Guatemala",NA,NA
+"144",7602170,52570,"Corn, SoyB. Meal, Wheat ","title i",1998,"Guyana",NA,NA
+"145",21999610,79440,"Rice, Soybeans ","title i",1998,"Indonesia",NA,NA
+"146",5e+06,13180,"Rice ","title i",1998,"Jamaica",NA,NA
+"147",17999890,146700,"Wheat ","title i",1998,"Jordan",NA,NA
+"148",11249590,60340,"Tallow, Veg.Oil, Wheat ","title i",1998,"Nicaragua",NA,NA
+"149",9999910,74900,"Wheat ","title i",1998,"Peru",NA,NA
+"150",9999990,62970,"Soybean Meal ","title i",1998,"Philippines",NA,NA
+"151",9999950,75980,"Wheat ","title i",1998,"Sri Lanka",NA,NA
+"152",1e+07,72330,"Wheat ","title i",1998,"Zimbabwe",NA,NA
+"153",5e+06,21200,"Rice","title i",1999,"Côte d’Ivoire",NA,NA
+"154",3805000,8900,"Tallow, Vegetable Oil","title i",1999,"El Salvador",NA,NA
+"155",5e+06,27900,"Soybean Meal (SBM)","title i",1999,"Ecuador",NA,NA
+"156",4300000,32800,"Wheat","title i",1999,"Georgia",NA,NA
+"157",10300000,77300,"Tallow, SBM","title i",1999,"Guatemala",NA,NA
+"158",1300000,8300,"Corn, SBM","title i",1999,"Guyana",NA,NA
+"159",4.6e+07,216300,"Rice, Wheat","title i",1999,"Indonesia",NA,NA
+"160",9e+06,34000,"Rice","title i",1999,"Jamaica",NA,NA
+"161",1.3e+07,104800,"Wheat","title i",1999,"Pakistan",NA,NA
+"162",3e+07,139200,"Rice, SBM, Feed Grain","title i",1999,"Philippines",NA,NA
+"163",286600000,1237800,"Corn, Soybeans, Rice, Beef, Poultry","title i",1999,"Russia",NA,NA
+"164",6400000,33400,"Soybeans","title i",1999,"Uzbekistan",NA,NA
+"165",7600000,24745,"Rice, Veg. Oil ","title i",2000,"Angola",NA,NA
+"166",3200000,13500,"Rice ","title i",2000,"Jamaica",NA,NA
+"167",1e+07,92456,"Wheat, Barley","title i",2000,"Morocco",NA,NA
+"168",4400000,33000,"Wheat, Barley ","title i",2000,"Peru",NA,NA
+"169",4e+07,151829,"Rice, Soybean meal ","title i",2000,"Philippines",NA,NA
+"170",5e+06,39065,"Wheat ","title i",2000,"Sri Lanka",NA,NA
+"171",6700000,38198,"Wheat ","title i",2000,"Uzbekistan",NA,NA
+"172",1e+07,82000,"Corn, Wheat","title i",2001,"Eritrea",NA,NA
+"173",2500000,6200,"Vegetable Oil","title i",2001,"El Salvador",NA,NA
+"174",1.5e+07,110600,"Wheat","title i",2001,"Indonesia",NA,NA
+"175",9800000,78000,"Wheat","title i",2001,"Peru",NA,NA
+"176",4e+07,306200,"Corn, Peas, Rice, Soybean Meal","title i",2001,"Philippines",NA,NA
+"177",7900000,63000,"Wheat","title i",2001,"Sri Lanka",NA,NA
+"178",2e+07,107200,"Rice, Soybeans","title i",2001,"Uzbekistan",NA,NA
+"179",4999990,27940,"Wheat","title i",2002,"Ecuador",NA,NA
+"180",8027680,52830,"Wheat","title i",2002,"Eritrea",NA,NA
+"181",6299750,31500,"Wheat","title i",2002,"Guatemala",NA,NA
+"182",1.9e+07,90130,"Rice","title i",2002,"Indonesia",NA,NA
+"183",9999990,45290,"Soybeans","title i",2002,"Pakistan",NA,NA
+"184",9703770,47550,"Wheat","title i",2002,"Peru",NA,NA
+"185",19999840,94510,"Rice, soybean meal","title i",2002,"Philippines",NA,NA
+"186",7999940,55920,"Wheat","title i",2002,"Sri Lanka",NA,NA
+"187",15621530,58520,"Rice","title i",2002,"Uzbekistan",NA,NA
+"188",4958195,4200,"Soybean Oil","title i",2003,"Afghanistan",NA,NA
+"189",5164280,22000,"Wheat","title i",2003,"Bolivia",NA,NA
+"190",10741500,21000,"Rice","title i",2003,"Cameroon",NA,NA
+"191",9016339,32610,"Sorghum, Wheat","title i",2003,"Eritrea",NA,NA
+"192",4258356,21660,"Wheat","title i",2003,"Ethiopia",NA,NA
+"193",6849150,33000,"Wheat","title i",2003,"Honduras",NA,NA
+"194",19800900,134700,"Wheat","title i",2003,"Jordan",NA,NA
+"195",4668750,15000,"Wheat","title i",2003,"Kenya",NA,NA
+"196",8411340,24500,"Wheat","title i",2003,"Mongolia",NA,NA
+"197",14168150,23500,"Tallow","title i",2003,"Pakistan",NA,NA
+"198",2090970,10500,"Wheat","title i",2003,"Peru",NA,NA
+"199",4e+07,117800,"Rice","title i",2003,"Philippines",NA,NA
+"200",4649400,15000,"Wheat","title i",2003,"Sri Lanka",NA,NA
+"201",3154800,8000,"Rice","title i",2003,"Togo",NA,NA
+"202",27439350,90000,"Wheat, Wheat Flour","title i",2003,"Yemen",NA,NA
+"203",2e+07,133700,"Wheat  ","title i",2004,"Jordan",NA,NA
+"204",6e+06,37400,"Wheat   ","title i",2004,"Peru",NA,NA
+"205",2e+07,58200,"Rice   ","title i",2004,"Philippines",NA,NA
+"206",20000,65186,"Rice","title i",2005,"Philippines",NA,NA
+"207",20,NA,"Rice","title i",2006,"Philippines","",NA
+"208",20,NA,"Wheat","title i",2006,"Jordan","",NA
+"209",NA,6400,"","title i",2006,"Cameroon","GOCM",NA
+"210",NA,12250,"","title i",2006,"Mali","GOM",NA
+"211",NA,8700,"","title i",2006,"Afghanistan","GOAF",NA
+"212",NA,46000,"","title i",2006,"Pakistan","GOPK",NA
+"213",NA,25000,"","title i",2006,"Lebanon","GOL",NA
+"214",NA,30000,"","title i",2006,"Yemen","GOY",NA
+"215",NA,12000,"","title i",2006,"Dominican Republic","NRECA",NA
+"216",NA,30000,"","title i",2006,"Ecuador","GOEC",NA
+"217",NA,18000,"","title i",2006,"Guatemala","GOGT",NA
+"218",NA,24000,"","title i",2006,"Honduras","GOH",NA
+"219",NA,15000,NA,"title i",2007,"Ethiopia","GOET",NA
+"220",NA,8210,NA,"title i",2007,"Afghanistan","GOAF",NA
+"221",7998000,6870,"Vegetable Oil, Wheat
+Flour","title i",2008,"Tajikistan","WFP",65
+"222",4987300,3610,"Vegetable Oil, Rice,
+Beans, Corn Soy Blend","title i",2008,"Timor-Leste","WFP",36.2
+"223",1e+07,7250,"Corn, Vegetable Oil, Yellow
+Split Peas","title i",2009,"Burundi","WFP",65
+"224",1.2e+07,7050,"Cornmeal, Corn Soy Blend,
+Vegetable Oil, Yellow Split
+Peas","title i",2009,"Central African Republic","WFP",65
+"225",8499000,7680,"Nonfat Dry Milk, Rice Milled","title i",2010,"Philippines","GOP",439
+"226",11199900,33000,"Soybean Meal, Yellow Corn","title i",2010,"Nicaragua","GON",618
+"227",13600000,20000,"Soybean Meal","title i",2011,"Philippines","CRS",65
+"228",14500000,30000,"Wheat","title i",2011,"El Salvador","GOES",50

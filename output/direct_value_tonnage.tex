@@ -1,0 +1,37 @@
+\begin{table}
+\centering\centering
+\caption{Humanitarian food aid does not increase the incidence of conflict \label{direct_value_tonnage}}
+\centering
+\fontsize{8}{10}\selectfont
+\begin{threeparttable}
+\begin{tabular}[t]{lccccc}
+\toprule
+\multicolumn{1}{c}{ } & \multicolumn{5}{c}{Conflict Incidence} \\
+\cmidrule(l{3pt}r{3pt}){2-6}
+  & (1) & (2) & (3) & (4) & (5)\\
+\midrule
+Tonnage (1000MTs) & \num{0.177} & \num{0.177} & \num{0.177} & \num{0.156} & \num{0.311}\\
+ & (\num{0.891}) & (\num{0.892}) & (\num{0.891}) & (\num{0.882}) & (\num{0.924})\\
+Value (millions of USD) & \num{0.001}+ & \num{0.001}+ & \num{0.001}+ & \num{0.001}+ & \num{0.001}+\\
+ & (\num{0.000}) & (\num{0.000}) & (\num{0.000}) & (\num{0.000}) & (\num{0.000})\\
+Tonnage * Value &  & \num{-0.002} &  &  & \num{-0.002}\\
+ &  & (\num{0.001}) &  &  & (\num{0.001})\\
+Tonnage * N. of partners &  &  &  & \num{0.035} & \\
+ &  &  &  & (\num{0.047}) & \\
+Value * N. of partners &  &  &  &  & \num{0.000}\\
+ &  &  &  &  & (\num{0.000})\\
+N. of partners &  &  &  & \num{-0.003} & \num{-0.003}\\
+ &  &  &  & (\num{0.012}) & (\num{0.012})\\
+\midrule
+Nunn + Qian controls & X & X & X & X & X\\
+Mary + Mishra controls & X & X & X & X & X\\
+Num.Obs. & \num{2023} & \num{2023} & \num{2023} & \num{2023} & \num{2023}\\
+R2 & \num{0.921} & \num{0.917} & \num{0.921} & \num{0.909} & \num{0.904}\\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}[para]
+\item \textit{Note: } 
+\item The outcome variable for this table is the incidence of intrastate conflict. Explanatory variables are the tonnage of humanitarian food aid provided by USAID (in 1000MTs), the value of humanitarian food aid provided by USAID (in millions of 2018 USD), and the number of implementing partners through which the aid was delivered. Estimates are from a linear probability model where the unit of observation is the country-year. Standard errors are clustered at the country level. Tables A7 and A8 list data sources and control variables; humanitarian food aid data are from the IFARs. * p < 0.05, ** p < 0.01, *** p < 0.001
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

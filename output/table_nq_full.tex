@@ -1,0 +1,53 @@
+\begin{table}
+\centering
+\caption{Humanitarian Food Aid and Conflict Incidence \label{table_nq_full}}
+\centering
+\fontsize{8}{10}\selectfont
+\begin{threeparttable}
+\begin{tabular}[t]{llllll}
+\toprule
+\multicolumn{1}{c}{ } & \multicolumn{5}{c}{Intrastate conflict} \\
+\cmidrule(l{3pt}r{3pt}){2-6}
+  & Model 1 & Model 2 & Model 3 & Model 4 & Model 5\\
+\midrule
+\addlinespace[0.3em]
+\multicolumn{6}{l}{\textbf{Panel A: OLS Estimates}}\\
+\hspace{1em}Humanitarian food aid (1000MTs) & 0.0008 & 0.0008 & 0.0007 & 0.0007 & 0.0007\\
+\hspace{1em} & (   0.0003) & (   0.0003) & (   0.0003) & (   0.0003) & (   0.0003)\\
+\hspace{1em}R\textasciicircum{}2 & 0.5925 & 0.5926 & 0.6039 & 0.6070 & 0.6263\\
+\addlinespace[0.3em]
+\multicolumn{6}{l}{\textbf{Panel A: Reduced Form Estimates}}\\
+\hspace{1em}Instrument & 0.0000 & 0.0000 & 0.0000 & 0.0000 & 0.0000\\
+\hspace{1em} & (   0.0000) & (   0.0001) & (   0.0001) & (   0.0001) & (   0.0001)\\
+\hspace{1em}R\textasciicircum{}2 & 0.5891 & 0.5893 & 0.6015 & 0.6048 & 0.6240\\
+\addlinespace[0.3em]
+\multicolumn{6}{l}{\textbf{Panel A: 2SLS Estimates}}\\
+\hspace{1em}Instrumented food aid (1000MTs) & -0.0003 & 0.0000 & 0.0011 & 0.0011 & 0.0010\\
+\hspace{1em} & (   0.0007) & (   0.0000) & (   0.0011) & (   0.0012) & (   0.0014)\\
+\hspace{1em}R\textasciicircum{}2 & 0.5863 & 0.5842 & 0.5956 & 0.5981 & 0.6187\\
+\addlinespace[0.3em]
+\multicolumn{6}{l}{\textbf{Panel A: First-Stage Estimates}}\\
+\hspace{1em}Instrument & 0.0766 & 0.0736 & 0.0750 & 0.0749 & 0.0844\\
+\hspace{1em} & (   0.0382) & (   0.0356) & (   0.0345) & (   0.0349) & (   0.0441)\\
+\hspace{1em}Kleibergen-Paap F-statistic & 4.0078 & 4.2610 & 4.7368 & 4.6014 & 3.6601\\
+\midrule
+Number of observations & 2540 & 2540 & 2288 & 2288 & 1863\\
+Country FEs & X & X & X & X & X\\
+Region-year FEs & X & X & X & X & X\\
+US GDP per capita * avg. prob. &  & X & X & X & X\\
+US democratic pres. * avg. prob. &  & X & X & X & X\\
+Oil price * avg. prob. &  & X & X & X & X\\
+Monthly recipient temp. and rainfall &  &  & X & X & X\\
+Monthly weather * avg. prob. &  &  & X & X & X\\
+Avg. US military aid * avg. prob. &  &  &  & X & X\\
+Avg. US economic aid * avg. prob. &  &  &  & X & X\\
+Avg. cereal imports * year FEs &  &  &  &  & X\\
+Avg. cereal production * year FEs &  &  &  &  & X\\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}[para]
+\item \textit{Note: } 
+\item This table replicates columns 1-5 from Table 2 in Nunn and Qian (\textbackslash{}citeyear\{NunnandQian2014\}). Estimates are from a linear probability model. The unit of observation is the country-year. The binary outcome variable is whether an intrastate war exists in a given country-year. Standard errors are clustered at the country level. Data sources and control variables are listed in Table A.5 Column 5 is the specification used in table \textbackslash{}ref\{table2\}.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

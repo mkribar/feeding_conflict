@@ -1,0 +1,41 @@
+\begin{table}
+\centering\centering
+\caption{Humanitarian food aid, the duration of peace, and risk of war termination \label{survival_value_tonnage}}
+\centering
+\fontsize{8}{10}\selectfont
+\begin{threeparttable}
+\begin{tabular}[t]{lcccccccc}
+\toprule
+\multicolumn{1}{c}{ } & \multicolumn{4}{c}{Risk of peace failing} & \multicolumn{4}{c}{Risk of war termination} \\
+\cmidrule(l{3pt}r{3pt}){2-5} \cmidrule(l{3pt}r{3pt}){6-9}
+  & (1) & (2) & (3) & (4) & (5) & (6) & (7) & (8)\\
+\midrule
+Tonnage (1000MTs) &  &  & \num{1.002} & \num{1.002} &  &  & \num{0.999} & \num{0.992}+\\
+ &  &  & (\num{0.001}) & (\num{0.001}) &  &  & (\num{0.001}) & (\num{0.004})\\
+Tonnage * Decisive victory &  &  &  & \num{0.961} &  &  &  & \\
+ &  &  &  & (\num{0.051}) &  &  &  & \\
+Tonnage * Peripheral conflict &  &  &  &  &  &  &  & \num{1.007}+\\
+ &  &  &  &  &  &  &  & (\num{0.004})\\
+Value (millions of USD) & \num{1.000} & \num{1.000} &  &  & \num{1.000} & \num{1.000}* &  & \\
+ & (\num{0.000}) & (\num{0.000}) &  &  & (\num{0.000}) & (\num{0.000}) &  & \\
+Value * Decisive victory &  & \num{1.000} &  &  &  &  &  & \\
+ &  & (\num{0.000}) &  &  &  &  &  & \\
+Value * Peripheral conflict &  &  &  &  &  & \num{1.000}+ &  & \\
+ &  &  &  &  &  & (\num{0.000}) &  & \\
+Decisive victory & \num{0.544}* & \num{0.561}* & \num{0.503}** & \num{0.537}* &  &  &  & \\
+ & (\num{0.151}) & (\num{0.161}) & (\num{0.128}) & (\num{0.140}) &  &  &  & \\
+Peripheral conflict &  &  &  &  & \num{1.874}*** & \num{1.681}** & \num{1.865}*** & \num{1.692}**\\
+ &  &  &  &  & (\num{0.317}) & (\num{0.300}) & (\num{0.318}) & (\num{0.298})\\
+\midrule
+Narang (2014) controls & X & X & X & X &  &  &  & \\
+Narang (2015) controls &  &  &  &  & X & X & X & X\\
+Num.Obs. & \num{1882} & \num{1882} & \num{2088} & \num{2088} & \num{1044} & \num{1044} & \num{1044} & \num{1044}\\
+RMSE & \num{0.24} & \num{0.24} & \num{0.25} & \num{0.25} & \num{0.42} & \num{0.42} & \num{0.42} & \num{0.42}\\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}[para]
+\item \textit{Note: } 
+\item This table re-estimates models from Narang (cite*{ Narang2014}) and Narang (cite*{ Narang2015}) using the IFAR data. The outcome variable in columns 1-4 is whether a peace deal fails (i.e. conflict re-emerges). The outcome variable in columns 5-8 is whether a war terminates (i.e. a peace deal is signed). Explanatory variables are the tonnage of humanitarian food aid provided by USAID (in 1000MTs), the value of humanitarian food aid provided by USAID (in millions of 2018 USD), whether the victory in the previous conflict was decisive, and whether a conflict is peripheral. Standard errors are clustered at the country level. Estimates are from a Cox Proportional Hazards model, and coefficients are displayed as odds ratios. The unit of observation is the country-year. Data sources and control variables are listed in Tables A9 and A10. * p < 0.05, ** p < 0.01, *** p < 0.001
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

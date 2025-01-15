@@ -1,0 +1,45 @@
+\begin{table}
+\centering
+\caption{Humanitarian food aid does not increase conflict \label{table2}}
+\centering
+\fontsize{8}{10}\selectfont
+\begin{threeparttable}
+\begin{tabular}[t]{llll}
+\toprule
+\multicolumn{1}{c}{ } & \multicolumn{3}{c}{Intrastate conflict} \\
+\cmidrule(l{3pt}r{3pt}){2-4}
+ & Nunn and Qian & Christian and Barrett & Mary and Mishra\\
+\midrule
+\addlinespace[0.3em]
+\multicolumn{4}{l}{\textbf{Panel A: OLS Estimates}}\\
+\hspace{1em}Humanitarian food aid (1000MTs) & 0.0007 & 0.0000 & 0.0010\\
+\hspace{1em} & (   0.0003) & (   0.0002) & (   0.0008)\\
+\hspace{1em}R\textasciicircum{}2 & 0.6263 & 0.7587 & 0.9234\\
+\addlinespace[0.3em]
+\multicolumn{4}{l}{\textbf{Panel B: Reduced Form Estimates}}\\
+\hspace{1em}Instrument & 0.0000 & -0.0001 & 0.5195\\
+\hspace{1em} & (   0.0001) & (   0.0001) & (   1.3999)\\
+\hspace{1em}R\textasciicircum{}2 & 0.6240 & 0.7724 & 0.9144\\
+\addlinespace[0.3em]
+\multicolumn{4}{l}{\textbf{Panel C: 2SLS Estimates}}\\
+\hspace{1em}Instrumented food aid (1000MTs) & 0.0010 & -0.0003 & 0.0004\\
+\hspace{1em} & (   0.0014) & (   0.0011) & (   0.0008)\\
+\hspace{1em}R\textasciicircum{}2 & 0.6187 & 0.7618 & 0.8968\\
+\addlinespace[0.3em]
+\multicolumn{4}{l}{\textbf{Panel D: First-Stage Estimates}}\\
+\hspace{1em}Instrument & 0.0844 & 0.0710 & -18.4271\\
+\hspace{1em} & (   0.0441) & (   0.0460) & (  58.1926)\\
+\hspace{1em}Kleibergen-Paap F-statistic & 3.6601 & 2.3823 & 0.1003\\
+\midrule
+Number of observations & 1863 & 1863 & 2023\\
+Nunn and Qian Controls & X & X & \\
+Unit-specific cubic time trends &  & X & X\\
+Mary and Mishra Controls &  &  & X\\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}[para]
+\item \textit{Note: } 
+\item This table replicates the main findings from Nunn and Qian (\textbackslash{}citeyear\{NunnandQian2014\}), Christian and Barret (\textbackslash{}citeyear\{ChristianandBarret2017\}), and Mary and Mishra (\textbackslash{}citeyear\{MaryandMishra2020\}). Estimates are from a linear probability model. The unit of observation is the country-year. The binary outcome variable is whether an intrastate war exists in a given country-year. Standard errors are clustered at the country level. Tables A.5 and A.6 list data sources and control variables. 
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
